@@ -5,4 +5,4 @@ We would need to calculate precision, recall, and f1-score to show the coverage,
 
 Here, I create a toy example with some fake data and show the calculation in Python by writing the formulas and the implementation from Scikit-Learn that does this conveniently with functions.
 
-See the example notebook in `2_illustrative_example_precision_recall.ipynb`, its exported HTML in `2_illustrative_example_precision_recall.html` and PDF in `2_illustrative_example_precision_recall.pdf`.
+See the example Python script with in-line comments describing the steps in `2_illustrative_example_precision_recall.py`, a Jupyter notebook in `2_illustrative_example_precision_recall.ipynb`, its exported HTML in `2_illustrative_example_precision_recall.html` and PDF in `2_illustrative_example_precision_recall.pdf`.
